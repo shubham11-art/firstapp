@@ -1,0 +1,12 @@
+{
+  "serverBaseURL": "http://localhost:4208/",
+  "api": {
+    "user": {
+      "create": "user",
+      "update": "user/",
+      "delete": "user/",
+      "fetchOne": "user/",
+      "fetchAll": "user/"
+    }
+  }
+}

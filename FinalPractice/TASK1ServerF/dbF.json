@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "shubham",
+      "mobile": 562389,
+      "age": "26",
+      "email": "kjhgfcvg@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "amba",
+      "age": "27",
+      "mobile": "895623",
+      "email": "zxs",
+      "id": 3
+    },
+    {
+      "name": "Mamu",
+      "age": "58",
+      "mobile": "9874563",
+      "email": "mamuchicken",
+      "id": 4
+    },
+    {
+      "name": "suchit",
+      "age": "28",
+      "mobile": "8795231456",
+      "email": "p@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "poly",
+      "age": "25",
+      "mobile": "987412365",
+      "email": "dsuoza@gbn",
+      "id": 6
+    },
+    {
+      "name": "pada",
+      "mobile": "287452256",
+      "age": "27",
+      "email": "jhgvgh",
+      "id": 7
+    }
+  ],
+  "products": [],
+  "items": []
+}
